@@ -10,8 +10,8 @@ hello szh! hello git!
 hello szh! hello git!
 hello szh! hello git!
 hello szh! hello git!
+hello szh! hello git! master text
 hello szh! hello git!
-hello szh! hello git!
-hello szh! hello git!
-hello szh! hello git!
+hello szh! hello git! master test
+hello szh! hello git! hot-fix test
 hello szh! hello git!2222
